@@ -1,4 +1,4 @@
-Q & A with Mimi and Rose
+Q & A with Bret and Rose
 
 ----- Who we are: Students at Turing School (structure of the school, types of people coming in, jobs afterwards, Jeff Casimir)
 
