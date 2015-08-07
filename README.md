@@ -21,6 +21,6 @@ Why would this be interesting? Why would this be interesting for the atChannel a
 This section is for other atChannel members to add comments and ask questions. Comments/questions should be formatted
 like the example below. 
 
-# Lovisa 
+##### Lovisa 
 
 - This looks really awesome. What an awesome idea that will bring up all these awesome topics. 
