@@ -8,6 +8,7 @@
 - Who can be a developer? Answer: everyone! Talk about students' backgrounds 
 - Gender trends in tech 
 - Interviews with alums 
+- Student built projects, from M3 or passion projects
 
 ## Ideas that could be more than one episode 
 
