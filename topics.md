@@ -9,6 +9,7 @@
 - Gender trends in tech 
 - Interviews with alums 
 - Student built projects, from M3 or passion projects
+- Interview with Sean Griffin (ThoughtBot, Shopify, Rails contribution, Rust contribution, Turing mentoring and teaching)
 
 ## Ideas that could be more than one episode 
 
